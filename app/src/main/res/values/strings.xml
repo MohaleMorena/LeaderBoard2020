@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="title_activity_tabbed">MainActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="launch">launch</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_to_github_link">Project to GITHUB(link)</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="gads_final">gads_final</string>
+    <string name="submit">Submit</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="submission_successfully">Submission Successfully</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="learning_hours">learning hours</string>
+    <string name="country">country</string>
+    <string name="textview">TextView</string>
+    <string name="skill_iq_score">skill IQ Score,</string>
+    <string name="tabs">TabLayout</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ leaders</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+
+</resources>
